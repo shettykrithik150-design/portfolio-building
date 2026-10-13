@@ -17,3 +17,4 @@ The purpose of this repository is to systematically organize and maintain course
 
 ## 🚀 Skills & Learning
 - **Current Skill:** Learning C++ for high-performance computing, data structures, and algorithms.
+- **Technical Interest:** Interested in Cloud Computing, AI systems, and sustainable tech infrastructure.
