@@ -14,3 +14,6 @@ The purpose of this repository is to systematically organize and maintain course
 - **Name:** Krithik D Shetty
 - **University:** REVA University, Bengaluru
 - **Subject:** Portfolio Building (B25CS0311)
+
+## 🚀 Skills & Learning
+- **Current Skill:** Learning C++ for high-performance computing, data structures, and algorithms.
