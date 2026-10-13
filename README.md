@@ -1,19 +1,16 @@
-﻿# Portfolio Building
+# Portfolio Building
 
-This GitHub repository contains the class files, programs, notes, and practice materials related to the **Portfolio Building** subject.
+Welcome to my **Portfolio Building** repository. I am **Krithik D Shetty** (SRN: **R25EJ056**), an undergraduate engineering student at **REVA University, Bengaluru**, enrolled in the **Portfolio Building (Course Code: B25CS0311)** course. This repository serves as a centralized hub to document my technical coursework, showcase hands-on programming labs, track project milestones, and demonstrate practical engineering competencies in Git, GitHub workflows, and modern software development.
 
-## 📂 Contents
-
-- Class programs
-- Practice files
-- Assignments
-- Notes
-- Other subject-related materials
+## 📂 Repository Contents
+- Class programs and algorithm implementations
+- Lab activities and practical assignments
+- Academic notes and reference materials
 
 ## 🎯 Purpose
-
-The purpose of this repository is to organize and maintain all the files created and used during Portfolio Building classes.
+The purpose of this repository is to systematically organize and maintain coursework artifacts for Portfolio Building, reflecting continuous development and version-controlled project management.
 
 ## 👤 Author
-
-Krithik Shetty
+- **Name:** Krithik D Shetty
+- **University:** REVA University, Bengaluru
+- **Subject:** Portfolio Building (B25CS0311)
